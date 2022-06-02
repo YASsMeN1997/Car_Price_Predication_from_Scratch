@@ -1,1 +1,3 @@
 # car_price_predication_with_linear_regression_from_scratch
+
+reference: https://youtube.com/playlist?list=PLu1nnZ4q7vDGSChbZoU8alovmtDcTvpVW
